@@ -16,6 +16,7 @@ public class HomeTestPage extends WebDriverBaseTestPage<WebDriverTestPage> {
 	//Changes 
 	//By Dibya
 //By testengg
+	//By Managerrr
 	@FindBy(locator = "btn.menu.flipkart")
 	private QAFWebElement btnMenuFlipkart;
 	@FindBy(locator = "btn.Electronics.flipkart")
